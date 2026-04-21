@@ -24,11 +24,9 @@ Price: 3.50
 1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit
 Choice: 4
 
---- INVENTORY ---
------------------------------------------------------------------
 ID: A001     | Name: Steel Bolt M8          | Qty:   500 | Price: $0.15
 ID: A002     | Name: Copper Wire            | Qty:   200 | Price: $3.50
------------------------------------------------------------------
+
 Total items: 2
 
 1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit

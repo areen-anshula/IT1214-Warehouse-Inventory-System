@@ -5,8 +5,9 @@ A console-based inventory management system built in Java using the Collections 
 
 <c>=== Warehouse Inventory System ===</c>
 <hr/>
+<br/><b>Choices</b><br/>
 1.Add <br/>2.Remove  <br/>3.Update  <br/>4.View  <br/>5.Search  <br/>6.Exit
-
+</br>
 <b>Choice: 1</b>  →  Add
 ID: A001 | Name: Steel Bolt M8 | Qty: 500 | Price: 0.15
 [OK] Added: Steel Bolt M8

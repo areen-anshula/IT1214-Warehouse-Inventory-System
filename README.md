@@ -1,6 +1,6 @@
 # IT1214-Warehouse-Inventory-System
 
-<b>=== Warehouse Inventory System ===</b>
+<b><h2>=== Warehouse Inventory System ===</h2></b>
 
 A console-based inventory management system built in Java using the Collections Framework. This project demonstrates core Object-Oriented Programming principles including encapsulation, class separation, and real-world use of HashMap for efficient data storage and retrieval.
 

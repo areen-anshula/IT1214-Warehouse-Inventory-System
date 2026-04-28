@@ -21,10 +21,8 @@ ID: A002 | New qty: 750
 [OK] Updated quantity for: Copper Wire
 <br/>
 <b>Choice: 4</b>  →  View
-──────────────────────────────────────────────────────
 ID: A002 | Name: Copper Wire    | Qty: 750 | Price: $3.50
 ID: A003 | Name: Steel Bolt M8  | Qty: 500 | Price: $0.15
-──────────────────────────────────────────────────────
 Total items: 2
 <br/>
 <b>Choice: 5</b>  →  Search

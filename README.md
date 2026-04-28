@@ -7,44 +7,31 @@ A console-based inventory management system built in Java using the Collections 
 
 1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit
 Choice: 1
-ID: A001
-Name: Steel Bolt M8
-Qty: 500
-Price: 0.15
+ID: A001 | Name: Steel Bolt M8 | Qty: 500 | Price: 0.15
 [OK] Added: Steel Bolt M8
 
-1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit
 Choice: 1
-ID: A002
-Name: Copper Wire
-Qty: 200
-Price: 3.50
+ID: A002 | Name: Copper Wire | Qty: 200 | Price: 3.50
 [OK] Added: Copper Wire
 
-1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit
 Choice: 4
-
-ID: A001     | Name: Steel Bolt M8          | Qty:   500 | Price: $0.15
-ID: A002     | Name: Copper Wire            | Qty:   200 | Price: $3.50
-
+──────────────────────────────────────────────────────
+ID: A001 | Name: Steel Bolt M8  | Qty: 500 | Price: $0.15
+ID: A002 | Name: Copper Wire    | Qty: 200 | Price: $3.50
+──────────────────────────────────────────────────────
 Total items: 2
 
-1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit
 Choice: 5
 Search (ID or name): copper
-ID: A002     | Name: Copper Wire            | Qty:   200 | Price: $3.50
+ID: A002 | Name: Copper Wire | Qty: 200 | Price: $3.50
 
-1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit
 Choice: 3
-ID: A001
-New qty: 750
+ID: A001 | New qty: 750
 [OK] Updated quantity for: Steel Bolt M8
 
-1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit
 Choice: 2
 ID to remove: A002
 [OK] Removed: Copper Wire
 
-1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit
 Choice: 6
 Goodbye!

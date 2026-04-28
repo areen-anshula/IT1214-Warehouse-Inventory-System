@@ -6,32 +6,29 @@ A console-based inventory management system built in Java using the Collections 
 === Warehouse Inventory System ===
 
 1.Add  2.Remove  3.Update  4.View  5.Search  6.Exit
-Choice: 1
+
+Choice: 1  →  Add
 ID: A001 | Name: Steel Bolt M8 | Qty: 500 | Price: 0.15
 [OK] Added: Steel Bolt M8
-
-Choice: 1
-ID: A002 | Name: Copper Wire | Qty: 200 | Price: 3.50
-[OK] Added: Copper Wire
-
-Choice: 4
+<hr/>
+Choice: 2  →  Remove
+ID to remove: A001
+[OK] Removed: Steel Bolt M8
+<hr/>
+Choice: 3  →  Update
+ID: A002 | New qty: 750
+[OK] Updated quantity for: Copper Wire
+<hr/>
+Choice: 4  →  View
 ──────────────────────────────────────────────────────
-ID: A001 | Name: Steel Bolt M8  | Qty: 500 | Price: $0.15
-ID: A002 | Name: Copper Wire    | Qty: 200 | Price: $3.50
+ID: A002 | Name: Copper Wire    | Qty: 750 | Price: $3.50
+ID: A003 | Name: Steel Bolt M8  | Qty: 500 | Price: $0.15
 ──────────────────────────────────────────────────────
 Total items: 2
-
-Choice: 5
+<hr/>
+Choice: 5  →  Search
 Search (ID or name): copper
-ID: A002 | Name: Copper Wire | Qty: 200 | Price: $3.50
-
-Choice: 3
-ID: A001 | New qty: 750
-[OK] Updated quantity for: Steel Bolt M8
-
-Choice: 2
-ID to remove: A002
-[OK] Removed: Copper Wire
-
-Choice: 6
+ID: A002 | Name: Copper Wire | Qty: 750 | Price: $3.50
+<hr/>
+Choice: 6  →  Exit
 Goodbye!
